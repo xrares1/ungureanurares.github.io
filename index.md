@@ -12,4 +12,18 @@ Tipuri de linkuri in Mardown:
 2. Linkurile referentiale
 
 #### linkuri clasice
-[textului linkului](textul linkului)
+
+**Variante:**
+[textului linkului](https://google.com/)
+[textului linkului](https://google.com/_"accesare site google")
+ 
+##### Linkuri referentiate
+Iata un link [link][link] catre site-ul google.
+
+[link]: https://google.com/
+
+Variante prescurtata a linkurilor referentiate:
+
+Iata un link 
+
+
