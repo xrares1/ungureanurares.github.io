@@ -18,12 +18,14 @@ Tipuri de linkuri in Mardown:
 [textului linkului](https://google.com/_"accesare site google")
  
 ##### Linkuri referentiate
+
 Iata un link [link][link] catre site-ul google.
 
 [link]: https://google.com/
 
 Variante prescurtata a linkurilor referentiate:
 
-Iata un link 
+Iata un link [ important ] catre site-ul Google.
+[Important] https://google.com/
 
 
